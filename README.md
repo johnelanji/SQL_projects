@@ -23,16 +23,8 @@ The dataset (`fifa`) includes information on players such as:
 
 ## 🧠 Key SQL Concepts Covered
 
-- `CASE WHEN` with aggregate functions
 - `STR_TO_DATE()` for string to date conversion
 - `GROUP BY`, `ORDER BY`, and `HAVING` clauses
-- Window functions (`LAG`, `ROW_NUMBER`)
-- String functions (`UPPER`, `CONCAT`)
-- Date filtering using `BETWEEN`, `YEAR()`, etc.
-- Random record selection
-- Full outer join (simulated using `UNION`)
-- Ranking and filtering top/bottom records
-
 ---
 
 ## 📌 Sample Queries Included
